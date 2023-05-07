@@ -4,6 +4,11 @@ Hi, I'm Jamie, a mechanical designer currently hoping to change career to a deve
 
 I have just recently completed my Full Stack Developer Diploma course with Code Institute and awaiting my final project / overall result.
 
+### My 2023 Goals:
+- Career change into developement
+- Develop a simple game using C#, Unity & Blender
+- Create a React Native app
+
 ### Languages & Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,py,cs,django,github,heroku,postgres,react,raspberrypi,vscode&theme=dark)](https://skillicons.dev)
