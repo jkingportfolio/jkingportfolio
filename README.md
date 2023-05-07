@@ -1,24 +1,46 @@
-### Hi there 👋
+# Hi there, I'm Jamie 👋
 
-Hi, I'm Jamie, a mechanical designer from Scotland currently on the path to change career to a developer. :godmode:
+I'm a self-taught developer who recently completed a Full Stack Developer Diploma at The Code Institute. I am eagerly awaiting my results and am excited to break into the tech industry with my new skills. :godmode:
 
-I have just recently completed my Full Stack Developer Diploma course with Code Institute and i am awaiting my final project / overall result. :man_student:
+## Languages & Tools:
 
-### My 2023 Goals:
+### Front-End:
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react&theme=dark)](https://skillicons.dev)
+
+### Back-End:
+[![My Skills](https://skillicons.dev/icons?i=py,cs,django&theme=dark)](https://skillicons.dev)
+
+### Database:
+[![My Skills](https://skillicons.dev/icons?i=postgres&theme=dark)](https://skillicons.dev)
+
+### Tools:
+[![My Skills](https://skillicons.dev/icons?i=git,github,heroku,raspberrypi,vscode&theme=dark)](https://skillicons.dev)
+
+## My projects (graded projects for the Code Institue Diploma course)
+
+- [Project 1 - The Cocktail Bar](https://github.com/jkingportfolio/CI_PP1_TheCocktailBar) : My first static page website.
+- [Project 2 - Connect 4](https://github.com/jkingportfolio/CI_PP2_Connect4) : Connect 4 game created using Javascript.
+- [Project 3 - Taco Trailer](https://github.com/jkingportfolio/CI_PP3_Taco_Trailer) : A CLI application using Python.
+- [Project 4 - Pic Pals](https://github.com/jkingportfolio/CI_PP4_Pic_Pals) : Picture sharing app using django templates.
+- [Project 5 - Tick It](https://github.com/jkingportfolio/ci_pp5_tick_it_react) : A productivity site created using Django Rest Framework and React.
+
+## Education (Coding related)
+
+- **Full Stack Developer Diploma** from The Code Institute, expected June 2023.
+
+## Currently learning:
+
+From a young age i have been hooked on computer games, now i would like to try and make some of my own. For this i will use Unity engine, blender to create my own 3d assets and use C# to write the scripts.
+
+[![My Skills](https://skillicons.dev/icons?i=cs,blender,unity&theme=dark)](https://skillicons.dev)
+
+## My 2023 Goals:
 - Career change into developement
 - Develop a simple game using C#, Unity & Blender
 - Create a React Native app
 - Create and update cheat / help sheet repos as i learn new skills
 
-### Languages & Tools:
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,py,cs,django,github,heroku,postgres,react,raspberrypi,vscode&theme=dark)](https://skillicons.dev)
-
-### Currently learning:
-
-[![My Skills](https://skillicons.dev/icons?i=cs,blender,unity&theme=dark)](https://skillicons.dev)
-
-### My Cheat / Help sheets:
+## My Cheat / Help sheets:
 
 <div align="left">
   
