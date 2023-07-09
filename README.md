@@ -26,7 +26,7 @@ I'm a self-taught developer who recently completed a Full Stack Developer Diplom
 
 ## Education (Coding related)
 
-- **Full Stack Developer Diploma** from The Code Institute, expected June 2023.
+- **Full Stack Developer Diploma** from The Code Institute, gained June 2023 with Distinction.
 
 ## Currently learning:
 
