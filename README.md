@@ -1,6 +1,6 @@
 # Hi there, I'm Jamie 👋
 
-I'm a self-taught developer who recently completed a Full Stack Developer Diploma at The Code Institute. I am eagerly awaiting my results and am excited to break into the tech industry with my new skills. :godmode:
+I'm a self-taught developer who recently completed a Full Stack Developer Diploma at The Code Institute in which i passed with a Distinction grade. I am now excited to break into the tech industry with my new skills. :godmode:
 
 ## Languages & Tools:
 
