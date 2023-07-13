@@ -54,7 +54,7 @@ From a young age i have been hooked on computer games, now i would like to try a
 | [Django Rest Framework](https://github.com/jkingportfolio/Drf-Cheatsheet) |
 | [Heroku](https://github.com/jkingportfolio/Heroku-Cheatsheet) |
 | [Elephant-SQL](https://github.com/jkingportfolio/Elephant-SQL-Cheatsheet) |
-| [React](https://github.com/jkingportfolio/React-Cheatsheet) |
+| [React](https://github.com/jkingportfolio/Reactjs-Cheatsheet) |
 | [C#](https://github.com/jkingportfolio/C#-Cheatsheet) |
 | [Unity](https://github.com/jkingportfolio/Unity-Cheatsheet) |
 
