@@ -5,7 +5,7 @@ I'm a self-taught developer who recently completed a Full Stack Developer Diplom
 ## Languages & Tools:
 
 ### Front-End:
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,threejs&theme=dark)](https://skillicons.dev)
 
 ### Back-End:
 [![My Skills](https://skillicons.dev/icons?i=py,cs,django&theme=dark)](https://skillicons.dev)
